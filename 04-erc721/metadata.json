@@ -1,0 +1,12 @@
+{
+    "name": "PadriChair",
+    "description": "Padril carried the light within",
+    "symbol": "PDRC",
+    "image": "https://i.imgur.com/mDffbiv.png",
+    "attributes": [
+        {
+            "trait_type": "Chair",
+            "value": "Plastic"
+        }
+    ]
+}
